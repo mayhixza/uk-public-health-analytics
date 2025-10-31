@@ -206,3 +206,34 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project specific 
+# ----------------------------
+# Project-specific ignores
+# ----------------------------
+
+# Virtual environment
+ml_uk_health/
+
+# Data directories
+datasets/processed/    # processed/intermediate data
+datasets/master/       # combined final datasets
+
+# Pipeline cache and temporary data
+data/temp/
+data/cache/
+
+# Outputs and model artifacts
+outputs/models/
+outputs/visualizations/
+*.pkl
+*.joblib
+*.csv
+*.json
+*.xlsx
+
+# Logs and reports
+*.log
+*.tmp
+*.bak
+
