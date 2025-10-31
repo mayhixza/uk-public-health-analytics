@@ -78,8 +78,8 @@ This project integrates publicly available UK government datasets. While users c
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd ML_FINAL_UK_HEALTH_PROJECT
+git clone https://github.com/mayhixza/uk-public-health-analytics.git
+cd uk-public-health-analytics
 ```
 
 2. **Create virtual environment** (recommended)
