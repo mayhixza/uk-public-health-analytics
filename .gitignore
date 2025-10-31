@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ml_uk_health/
 
 # Spyder project settings
 .spyderproject
