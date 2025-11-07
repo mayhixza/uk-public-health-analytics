@@ -189,6 +189,10 @@ This project is licensed under the [MIT License](./LICENSE).
 - GitHub: [@mayhixza](https://github.com/mayhixza)
 - Email: emailwithmoi@gmail.com
 
+- LinkedIn: [Joel Josy](www.linkedin.com/in/joel-josy)
+- GitHub: [@JoelJosy](https://github.com/JoelJosy)
+- Email: joeljosy79@gmail.com
+
 
 ---
 
